@@ -56,32 +56,32 @@ The bookmaker odds (1XBet and William Hill) were available for evaluation purpos
 The project follows the workflow below: <br>
 
 Historical Match Data <br>
-&emsp;│ <br>
-&emsp;▼ <br>
+&emsp;&emsp;│ <br>
+&emsp;&emsp;▼ <br>
 Data Cleaning & Preprocessing <br>
-&emsp;│ <br>
-&emsp;▼ <br>
+&emsp;&emsp;│ <br>
+&emsp;&emsp;▼ <br>
 Feature Engineering <br>
-&emsp;│ <br>
-&emsp;▼ <br>
+&emsp;&emsp;│ <br>
+&emsp;&emsp;▼ <br>
 Nested Cross-Validation <br>
-&emsp;│ <br>
-&emsp;▼ <br>
+&emsp;&emsp;│ <br>
+&emsp;&emsp;▼ <br>
 Hyperparameter Optimization <br>
-&emsp;│ <br>
-&emsp;▼ <br>
+&emsp;&emsp;│ <br>
+&emsp;&emsp;▼ <br>
 Model Selection <br>
-&emsp;│ <br>
-&emsp;▼ <br>
+&emsp;&emsp;│ <br>
+&emsp;&emsp;▼ <br>
 Probability Prediction <br>
-&emsp;│ <br>
-&emsp;▼ <br>
+&emsp;&emsp;│ <br>
+&emsp;&emsp;▼ <br>
 Decimal Odds Calculation <br>
-&emsp;│ <br>
-&emsp;▼ <br>
+&emsp;&emsp;│ <br>
+&emsp;&emsp;▼ <br>
 Comparison with Bookmaker Odds <br>
-&emsp;│ <br>
-&emsp;▼ <br>
+&emsp;&emsp;│ <br>
+&emsp;&emsp;▼ <br>
 Profitability Simulation <br>
 <br>
 
@@ -155,8 +155,8 @@ football-odds-prediction-ml <br>
 │   ├── List of features.pdf <br>
 │   └── Nested cross-validation results.pdf <br>
 │ <br>
-├── master thesis/ <br>
-│   └── Master Thesis - Mario Vežić (post-thesis' defence).docx <br>
+└── master thesis/ <br>
+    └── Master Thesis - Mario Vežić (post-thesis' defence).docx <br>
 
 ## Key Findings
 
