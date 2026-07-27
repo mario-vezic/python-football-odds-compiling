@@ -156,7 +156,7 @@ football-odds-prediction-ml <br>
 │   └── Nested cross-validation results.pdf <br>
 │ <br>
 └── master thesis/ <br>
-    └── Master Thesis - Mario Vežić (post-thesis' defence).docx <br>
+&emsp;&emsp;└── Master Thesis - Mario Vežić (post-thesis' defence).docx <br>
 
 ## Key Findings
 
