@@ -8,9 +8,8 @@ Using historical data from the **Slovenian First Football League**, four supervi
 <br>
 This project demonstrates the complete machine learning workflow, from data preprocessing and feature engineering to model evaluation, probability estimation, odds generation, and profitability analysis. <br>
 <br>
---- <br>
 
-# Project Objectives
+## Project Objectives
 
 The primary objectives of this project were to: <br>
 <br>
@@ -21,9 +20,8 @@ The primary objectives of this project were to: <br>
 * Evaluate whether value betting opportunities can be identified using machine learning. <br>
 * Analyze the profitability of betting strategies based on the generated odds. <br>
 <br>
---- <br>
 
-# Dataset
+## Dataset
 
 The project uses historical match data from the **Slovenian First Football League** covering the **2005/06–2023/24** seasons. <br>
 
