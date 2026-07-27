@@ -39,9 +39,8 @@ Each match contains numerous pre-match variables describing both teams, includin
 <br>
 The bookmaker odds (1XBet and William Hill) were available for evaluation purposes and were used only during the comparison stage. <br>
 <br>
---- <br>
 
-# Technologies Used
+## Technologies Used
 
 * Python <br>
 * Pandas <br>
@@ -51,44 +50,42 @@ The bookmaker odds (1XBet and William Hill) were available for evaluation purpos
 * Matplotlib <br>
 * Jupyter Notebook <br>
 <br>
---- <br>
 
-# Machine Learning Workflow
+## Machine Learning Workflow
 
 The project follows the workflow below: <br>
 
 Historical Match Data <br>
-        │ <br>
-        ▼ <br>
+&emsp;│ <br>
+&emsp;▼ <br>
 Data Cleaning & Preprocessing <br>
-        │ <br>
-        ▼ <br>
+&emsp;│ <br>
+&emsp;▼ <br>
 Feature Engineering <br>
-        │ <br>
-        ▼ <br>
+&emsp;│ <br>
+&emsp;▼ <br>
 Nested Cross-Validation <br>
-        │ <br>
-        ▼ <br>
+&emsp;│ <br>
+&emsp;▼ <br>
 Hyperparameter Optimization <br>
-        │ <br>
-        ▼ <br>
+&emsp;│ <br>
+&emsp;▼ <br>
 Model Selection <br>
-        │ <br>
-        ▼ <br>
+&emsp;│ <br>
+&emsp;▼ <br>
 Probability Prediction <br>
-        │ <br>
-        ▼ <br>
+&emsp;│ <br>
+&emsp;▼ <br>
 Decimal Odds Calculation <br>
-        │ <br>
-        ▼ <br>
+&emsp;│ <br>
+&emsp;▼ <br>
 Comparison with Bookmaker Odds <br>
-        │ <br>
-        ▼ <br>
+&emsp;│ <br>
+&emsp;▼ <br>
 Profitability Simulation <br>
 <br>
---- <br>
 
-# Machine Learning Models
+## Machine Learning Models
 
 Four classification algorithms were evaluated: <br>
 <br>
@@ -101,9 +98,8 @@ Nested Cross-Validation was used for unbiased model comparison and hyperparamete
 <br>
 After selecting the best-performing algorithm, a final model was trained using standard k-fold cross-validation before evaluation on the unseen 2023/24 season. <br>
 <br>
---- <br>
 
-# Model Evaluation
+## Model Evaluation
 
 The models were evaluated using several classification metrics, including: <br>
 <br>
@@ -116,9 +112,8 @@ The models were evaluated using several classification metrics, including: <br>
 <br>
 The final evaluation was performed on an unseen test season to simulate real-world prediction performance. <br>
 <br>
---- <br>
 
-# Results
+## Results
 
 Among the evaluated algorithms, **Logistic Regression** achieved the strongest overall performance. <br>
 <br>
@@ -137,9 +132,8 @@ The generated probabilities were converted into decimal betting odds and compare
 <br>
 The comparison demonstrated that the machine learning model was capable of producing competitive probabilities while also identifying situations where the market may have undervalued or overvalued certain outcomes. <br>
 <br>
---- <br>
 
-# Repository Structure
+## Repository Structure
 
 football-odds-prediction-ml <br>
 │ <br>
@@ -164,16 +158,15 @@ football-odds-prediction-ml <br>
 ├── master thesis/ <br>
 │   └── Master Thesis - Mario Vežić (post-thesis' defence).docx <br>
 
-# Key Findings
+## Key Findings
 
 * Logistic Regression outperformed the more complex machine learning algorithms on this dataset. <br>
 * Nested Cross-Validation provided an unbiased framework for model selection and hyperparameter optimization. <br>
 * The generated probabilities closely aligned with bookmaker estimates while identifying potential value betting opportunities. <br>
 * The project illustrates the importance of evaluating machine learning models not only through predictive metrics but also through practical financial outcomes. <br>
 <br>
---- <br>
 
-# Future Improvements
+## Future Improvements
 
 Possible extensions of this project include: <br>
 <br>
@@ -182,9 +175,8 @@ Possible extensions of this project include: <br>
 * Expanding the methodology to additional football leagues. <br>
 * Developing a fully automated betting pipeline using live data. <br>
 <br>
---- <br>
 
-# Related Projects
+## Related Projects
 
 This project is part of a larger football betting analytics portfolio. <br>
 <br>
@@ -196,9 +188,8 @@ A PostgreSQL project that evaluates the profitability of the generated betting o
 
 An interactive Tableau dashboard that visualizes league statistics, betting performance, model predictions, bookmaker comparisons, and profitability metrics. <br>
 <br>
---- <br>
 
-# About Me
+## About Me
 
 I am a Master's graduate in Business Informatics with a background in Psychology and a strong interest in machine learning, sports analytics, predictive modeling, and business intelligence. <br>
 <br>
