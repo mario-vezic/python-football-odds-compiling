@@ -180,11 +180,11 @@ Possible extensions of this project include: <br>
 
 This project is part of a larger football betting analytics portfolio. <br>
 <br>
-### Football Betting SQL Analysis <br>
+### Football Betting SQL Analysis [sql-football-betting-analysis](https://github.com/mario-vezic/sql-football-betting-analysis)  <br>
 
 A PostgreSQL project that evaluates the profitability of the generated betting odds using various betting strategies, bookmaker margins, expected value calculations, and return-on-investment analysis. <br>
 
-### Slovenian League Tableau Dashboard <br>
+### Slovenian League Tableau Dashboard [tableau-football-league-dashboard](https://github.com/mario-vezic/tableau-football-league-dashboard) <br>
 
 An interactive Tableau dashboard that visualizes league statistics, betting performance, model predictions, bookmaker comparisons, and profitability metrics. <br>
 <br>
