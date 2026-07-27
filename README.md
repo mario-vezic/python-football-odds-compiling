@@ -1,5 +1,5 @@
 # ⚽ Football Betting Odds Prediction Using Machine Learning
-<br>
+
 ## Overview <br>
 <br>
 This project was developed as part of my Master's thesis in Business Informatics and investigates whether machine learning models can accurately estimate football match outcome probabilities and generate betting odds that are competitive with those offered by professional bookmakers. <br>
