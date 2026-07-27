@@ -141,19 +141,19 @@ football-odds-prediction-ml <br>
 ├── LICENSE <br>
 │ <br>
 ├── data/ <br>
-│   └── Database - 3 sheets.xlsx <br>
+│ &emsp;   └── Database - 3 sheets.xlsx <br>
 │ <br>
 ├── notebooks/ <br>
-│   ├── MV_Thesis_Bet_1.ipynb <br>
-│   ├── MV_Thesis_Bet_2.ipynb <br>
-│   └── MV_Thesis_Bet_X.ipynb <br>
+│ &emsp;  ├── MV_Thesis_Bet_1.ipynb <br>
+│ &emsp;  ├── MV_Thesis_Bet_2.ipynb <br>
+│ &emsp;  └── MV_Thesis_Bet_X.ipynb <br>
 │ <br>
 ├── images/
-│   ├── Correlation matrix (initial set).png <br>
-│   ├── Correlation matrix (final set).png <br>
-│   ├── Example of the matchday 1 odds.pdf <br>
-│   ├── List of features.pdf <br>
-│   └── Nested cross-validation results.pdf <br>
+│ &emsp;  ├── Correlation matrix (initial set).png <br>
+│ &emsp;  ├── Correlation matrix (final set).png <br>
+│ &emsp;  ├── Example of the matchday 1 odds.pdf <br>
+│ &emsp;  ├── List of features.pdf <br>
+│ &emsp;  └── Nested cross-validation results.pdf <br>
 │ <br>
 └── master thesis/ <br>
 &emsp;&emsp;└── Master Thesis - Mario Vežić (post-thesis' defence).docx <br>
