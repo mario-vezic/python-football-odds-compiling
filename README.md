@@ -136,28 +136,32 @@ The comparison demonstrated that the machine learning model was capable of produ
 
 ## Repository Structure
 
-football-odds-prediction-ml <br>
-│ <br>
-├── README.md <br>
-├── LICENSE <br>
-│ <br>
-├── data/ <br>
-│ &emsp;   └── Database - 3 sheets.xlsx <br>
-│ <br>
-├── notebooks/ <br>
-│ &emsp;  ├── MV_Thesis_Bet_1.ipynb <br>
-│ &emsp;  ├── MV_Thesis_Bet_2.ipynb <br>
-│ &emsp;  └── MV_Thesis_Bet_X.ipynb <br>
-│ <br>
+```text
+football-odds-prediction-ml
+│
+├── README.md
+├── LICENSE
+│
+├── data/ 
+│        └── Database - 3 sheets.xlsx
+│
+├── notebooks/
+│        ├── MV_Thesis_Bet_1.ipynb
+│        ├── MV_Thesis_Bet_2.ipynb
+│        └── MV_Thesis_Bet_X.ipynb
+│ 
 ├── images/
-│ &emsp;  ├── Correlation matrix (initial set).png <br>
-│ &emsp;  ├── Correlation matrix (final set).png <br>
-│ &emsp;  ├── Example of the matchday 1 odds.pdf <br>
-│ &emsp;  ├── List of features.pdf <br>
-│ &emsp;  └── Nested cross-validation results.pdf <br>
-│ <br>
-└── master thesis/ <br>
-&emsp;&emsp;└── Master Thesis - Mario Vežić (post-thesis' defence).docx <br>
+│        ├── Correlation matrix (initial set).png
+│        ├── Correlation matrix (final set).png
+│        ├── Example of the matchday 1 odds.pdf
+│        ├── List of features.pdf
+│        └── Nested cross-validation results.pdf
+│ 
+└── master thesis/
+         └── Master Thesis - Mario Vežić (post-thesis' defence).docx
+
+```
+<br>
 
 ## Key Findings
 
