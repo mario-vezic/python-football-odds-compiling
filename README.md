@@ -119,15 +119,18 @@ The final evaluation was performed on an unseen test season to simulate real-wor
 Among the evaluated algorithms, **Logistic Regression** achieved the strongest overall performance. <br>
 <br>
 ### Final Test Performance <br>
-<br>
-| Metric    | Value | <br>
-| --------- | ----- | <br>
-| Accuracy  | 73.8% | <br>
-| Precision | 69.9% | <br>
-| Recall    | 74.8% | <br>
-| F1 Score  | 72.3% | <br>
-| ROC AUC   | 0.753 | <br>
-| Log Loss  | 0.589 | <br>
+
+```text
+| Metric    | Value |
+| --------- | ----- |
+| Accuracy  | 73.8% |
+| Precision | 69.9% |
+| Recall    | 74.8% |
+| F1 Score  | 72.3% |
+| ROC AUC   | 0.753 |
+| Log Loss  | 0.589 |
+
+```
 <br>
 The generated probabilities were converted into decimal betting odds and compared with the odds offered by 1XBet and William Hill. <br>
 <br>
