@@ -55,35 +55,36 @@ The bookmaker odds (1XBet and William Hill) were available for evaluation purpos
 
 The project follows the workflow below: <br>
 
-Historical Match Data <br>
-&emsp;&emsp;│ <br>
-&emsp;&emsp;▼ <br>
-Data Cleaning & Preprocessing <br>
-&emsp;&emsp;│ <br>
-&emsp;&emsp;▼ <br>
-Feature Engineering <br>
-&emsp;&emsp;│ <br>
-&emsp;&emsp;▼ <br>
-Nested Cross-Validation <br>
-&emsp;&emsp;│ <br>
-&emsp;&emsp;▼ <br>
-Hyperparameter Optimization <br>
-&emsp;&emsp;│ <br>
-&emsp;&emsp;▼ <br>
-Model Selection <br>
-&emsp;&emsp;│ <br>
-&emsp;&emsp;▼ <br>
-Probability Prediction <br>
-&emsp;&emsp;│ <br>
-&emsp;&emsp;▼ <br>
-Decimal Odds Calculation <br>
-&emsp;&emsp;│ <br>
-&emsp;&emsp;▼ <br>
-Comparison with Bookmaker Odds <br>
-&emsp;&emsp;│ <br>
-&emsp;&emsp;▼ <br>
+```text
+Historical Match Data
+                │
+                ▼
+Data Cleaning & Preprocessing
+                │
+                ▼
+Feature Engineering
+                │
+                ▼
+Nested Cross-Validation
+                │
+                ▼
+Hyperparameter Optimization
+                │
+                ▼
+Model Selection
+                │
+                ▼
+Probability Prediction
+                │
+                ▼
+Decimal Odds Calculation
+                │
+                ▼
+Comparison with Bookmaker Odds
+                │
+                ▼
 Profitability Simulation <br>
-<br>
+```
 
 ## Machine Learning Models
 
